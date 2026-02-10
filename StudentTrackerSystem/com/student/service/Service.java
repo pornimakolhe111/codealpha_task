@@ -14,4 +14,5 @@ public interface Service {
     int calculateLowestMarks(Student student);
     int calculateHighestMarks(Student student);
     void displayAllStudents();
+
 }
