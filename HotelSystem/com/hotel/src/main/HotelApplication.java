@@ -52,4 +52,5 @@ public class HotelApplication {
 
         System.out.println(reservationService.checkRoomAvailability(roomService.getRoomById(1), new Date(2026, 01, 16), new Date(2026, 01, 18)));
     }
+
 }
