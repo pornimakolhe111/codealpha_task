@@ -25,4 +25,5 @@ public class PaymentService {
     public static double getTotalBalance() {
         return account.getBalance();
     }
+
 }
